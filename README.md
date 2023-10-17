@@ -17,10 +17,10 @@ In your laravel project composer.json file. Open the file and update include the
 
 Execute the following command to install the package:
 
-  composer require mehedi250/numberflow:master
+      composer require mehedi250/numberflow:master
 
 
-## How to use & code
+## How to use in code
 
 Add bellow line in php file
 
