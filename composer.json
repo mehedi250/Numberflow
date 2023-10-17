@@ -1,0 +1,15 @@
+{
+    "name": "mehedi250/numberflow",
+    "autoload": {
+        "psr-4": {
+            "Mehedi250\\Numberflow\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mehedi Hasan Shawon",
+            "email": "mhshawon250+developer@gmail.com"
+        }
+    ],
+    "require": {}
+}
